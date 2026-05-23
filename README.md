@@ -165,4 +165,4 @@ Random Forest Classifier
 
 This project was completed as part of the **British Airways Data Science Virtual Experience Programme** hosted on [Forage](https://www.theforage.com). The simulation provides hands-on experience with real-world data challenges faced by BA's data science and airport planning teams.
 ## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/gayatri-londhe-/))
+[LinkedIn](https://www.linkedin.com/in/gayatri-londhe-/)
